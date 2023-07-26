@@ -1,6 +1,4 @@
-![Profile Banner](link_to_profile_banner.png)
-
-# Hi there, I'm Luana Pina 👋
+![Header](./your-header-image-name.png)
 
 ## About me
 
