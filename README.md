@@ -50,11 +50,6 @@ I'm a Frontend developer with three years of experience creating attractive, res
 I'm always excited to connect with fellow developers, designers, and potential collaborators. You can reach me via email at [luana.pina@gmail.com](mailto:luana.pina@gmail.com) or find me on LinkedIn [Luana Pina](https://www.linkedin.com/in/luana-pina-1247891a1/).
 
 Let's create amazing web and mobile experiences together!
-
-## Social Media
-
-[Steam](https://steamcommunity.com/id/constaxi)
-[Instagram](https://www.instagram.com/luana_pina)
 ---
 
 Thank you for visiting my GitHub profile! If you have any questions or feedback, feel free to open an issue or reach out to me directly. Happy coding! 🚀
